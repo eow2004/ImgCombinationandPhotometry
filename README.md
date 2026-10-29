@@ -1,0 +1,2 @@
+# ImgCombinationandPhotometry
+Student reduction project
