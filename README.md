@@ -1,2 +1,2 @@
 # ImgCombinationandPhotometry
-Student reduction project
+Student reduction project by Elias Works
